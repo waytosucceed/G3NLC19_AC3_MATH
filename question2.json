@@ -1,0 +1,22 @@
+[
+  {
+    "questionNo": 1,
+    "question": "A sparkling waterfall reflected numbers in the water: Fill in the missing number.",
+    "options":["4","×","5","=","","×","4"],
+    "answers": ["4","×","5","=","5","×","4"]
+
+  },
+  {
+    "questionNo": 2,
+    "question": "Fireflies danced in the air, forming a glowing equation:What number completes the pattern?",
+    "options":["3","×","6","=","6","×",""],
+    "answers": ["3","×","6","=","6","×","3"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "A wise owl hooted a puzzle from the treetops: Fill in the missing number.",
+    "options":["2","×","4","=","","×","2"],
+    "answers": ["2","×","4","=","4","×","2"]
+  }
+]
